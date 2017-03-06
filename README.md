@@ -13,6 +13,6 @@ devtools::install_github("aputri/STAT311-Project")
 
 ### Authors
 
-* **Alvina Putri**
-* **Sean Alldridge**
-* **Erin Pederson**
+* Alvina Putri
+* Sean Alldridge
+* Erin Pederson
