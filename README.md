@@ -4,7 +4,7 @@ A project for STAT 311: Modern Statistical Methods using R.
 
 ### Installation
 
-Run R-Studio
+To install, simply run the following from an R console:
 
 ```
 install.packages("devtools")
