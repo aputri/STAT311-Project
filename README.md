@@ -1,6 +1,6 @@
-# STAT 311 Project
+# STAT 311 Project - Term Life
 
-A project for STAT 311: Modern Statistical Methods using R.
+This project uses the Term Life dataset and applies multiple analyses to the data using R.
 
 ### Installation
 
