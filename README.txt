@@ -6,10 +6,10 @@ This project uses the Term Life Insurance dataset and applies multiple analyses 
 
 To install, simply run the following from an R console:
 
-``` r
 install.packages("devtools")
 devtools::install_github("aputri/STAT311-Project")
-```
+
+Or open STAT311-Project.Rproj using R-Studio.
 
 ### Scripts
 
