@@ -1,4 +1,4 @@
-# STAT 311 Project - Term Life Insurance
+# Term Life Insurance
 
 This project uses the Term Life Insurance dataset and applies multiple analyses to the data using R.
 
@@ -8,7 +8,7 @@ To install, simply run the following from an R console:
 
 ``` r
 install.packages("devtools")
-devtools::install_github("aputri/STAT311-Project")
+devtools::install_github("aputri/TermLifeInsurance")
 ```
 
 ### Scripts
